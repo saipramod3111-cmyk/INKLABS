@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+server/uploads/designs/
+server/uploads/thumbnails/
+*.log

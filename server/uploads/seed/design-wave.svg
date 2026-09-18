@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="230" fill="#0ea5e9"/>
+  <path d="M40 300 Q120 220 200 300 T360 300 T520 300 L520 512 L0 512 Z" fill="#0369a1"/>
+  <path d="M0 360 Q80 290 160 360 T320 360 T480 360 L512 512 L0 512 Z" fill="#e0f2fe" opacity="0.9"/>
+  <circle cx="340" cy="150" r="48" fill="#fde68a"/>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#0c4a6e">RIDE THE WAVE</text>
+</svg>
